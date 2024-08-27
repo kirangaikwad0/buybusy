@@ -1,3 +1,9 @@
+While signing in if you face any issue use the below email and password:
+email:kiran@gmail.com
+password :kiran
+
+Added comments as per evaluation instructions
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
