@@ -1,8 +1,4 @@
-While signing in if you face any issue use the below email and password:
-email:kiran@gmail.com
-password :kiran
 
-Added comments as per evaluation instructions
 
 # Getting Started with Create React App
 
